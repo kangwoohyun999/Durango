@@ -23,3 +23,9 @@
 ```
 kangwoohyun999@gmail.com
 ```
+
+## How to
+https://pivox.tistory.com/17
+
+## Download Site
+https://assetripper.github.io/AssetRipper/
