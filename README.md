@@ -32,3 +32,6 @@ https://assetripper.github.io/AssetRipper/
 
 ## UABEA
 https://github.com/nesrak1/UABEA
+
+## AssetStudio
+https://github.com/Perfare/AssetStudio
