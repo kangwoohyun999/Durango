@@ -27,6 +27,9 @@ kangwoohyun999@gmail.com
 ## How to
 https://pivox.tistory.com/17
 
+## .net6
+https://dotnet.microsoft.com/ko-kr/download/dotnet/6.0
+
 ## Download Site
 https://assetripper.github.io/AssetRipper/
 
