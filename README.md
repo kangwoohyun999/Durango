@@ -24,17 +24,11 @@
 kangwoohyun999@gmail.com
 ```
 
-## How to
-https://pivox.tistory.com/17
-
 ## .net6
 https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.36/windowsdesktop-runtime-6.0.36-win-x64.exe
 
-## Download Site
-https://assetripper.github.io/AssetRipper/
+## uTinyRipper (Scene 복구)
+https://sourceforge.net/projects/utinyripper/files/
 
-## UABEA
-https://github.com/nesrak1/UABEA
-
-## AssetStudio
+## AssetStudio (Asset 복구)
 https://github.com/Perfare/AssetStudio/releases
