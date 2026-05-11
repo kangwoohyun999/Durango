@@ -28,8 +28,7 @@ kangwoohyun999@gmail.com
 https://pivox.tistory.com/17
 
 ## .net6
-https://dotnet.microsoft.com/ko-kr/download/dotnet/6.0
-(https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.36/windowsdesktop-runtime-6.0.36-win-x64.exe)
+https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.36/windowsdesktop-runtime-6.0.36-win-x64.exe
 
 ## Download Site
 https://assetripper.github.io/AssetRipper/
